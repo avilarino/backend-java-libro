@@ -4,7 +4,7 @@ Welcome !!
 
 My name is Agustin Vilariño, i am software developer from 📌 Buenos Aires, Argentina 
 
-📚 Concepts involved 📚
+📚 Concepts involved: 
     -   Java
     -   UML
 
