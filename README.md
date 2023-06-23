@@ -5,8 +5,10 @@ Welcome !!
 My name is Agustin Vilariño, i am software developer from 📌 Buenos Aires, Argentina 
 
 📚 Concepts involved 📚
-◦Java
-◦Uml
+    -   Java
+        
+    -   UML
+
 
 📐 Backend - Design 📐
 
@@ -14,5 +16,8 @@ My name is Agustin Vilariño, i am software developer from 📌 Buenos Aires, Ar
 
 Follow Me 🙌 ☎️
 •Social Media:
-◦Linkedin
-◦Github
+-   Social Media:
+    -   [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-vilari%C3%B1o-17914564/)
+        
+    -   [Github](https://github.com/avilarino)
+
